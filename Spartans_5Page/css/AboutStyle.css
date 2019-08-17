@@ -1,0 +1,50 @@
+.background{
+background:url("pic.jpg");
+border:2px solid black;
+
+}
+
+.transbox{
+margin:30px;
+background-color:#ffffff;
+border:1px solid black;
+opacity:0.5;
+filter:alpha(opacity=30);
+}
+.transbox p{
+margin:5%;
+font-weight:bold;
+color:black;
+}
+.header {
+  color: black;
+  padding: 15px;
+ font-size: 40px;
+}
+
+body{
+background-image:url("qw.jpg");
+background-size:cover;
+ -webkit-filter: blur(0px);
+background-repeat:no-repeat;
+
+
+}
+
+.description {
+  
+  padding: 40px;
+  color: black;
+  text-align: center;
+  font-size: 40px;
+  box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);
+}
+
+/* Style the footer */
+footer {
+
+  padding: 10px;
+  text-align: center;
+  color: white;
+}
+

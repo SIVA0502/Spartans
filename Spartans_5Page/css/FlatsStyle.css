@@ -1,0 +1,12 @@
+h1{color:#c4214d;text-align:center;text-shadow: 2px 2px 3px #7a2026;}
+.gap{padding:0px 55px 0px 25px;}
+div{background-image:url("image7.jfif");}
+body{background-image:url("img.jfif");background-repeat:no-repeat;background-size:cover;}
+
+/* Style the footer */
+footer {
+
+  padding: 10px;
+  text-align: center;
+  color:red;
+}

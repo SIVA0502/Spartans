@@ -1,0 +1,22 @@
+div.gallery {
+  margin: 5px;
+  border: 1px;
+  float: left;
+  width: 550px;
+  height: 350px;  
+}
+body{background-image:url("err.jpg");background-repeat:no-repeat;background-size:cover;}
+
+div.gallery img {
+
+  width: 550px;
+  height: 350px;
+  padding:40px; 
+}
+
+footer {
+ 
+  padding: 40px;
+  text-align: center;
+  color: black;
+}
